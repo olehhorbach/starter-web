@@ -12,3 +12,5 @@ This is info how to deploy the project
 
 
 ### How to Conribute
+
+New text in this section
