@@ -8,5 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+This is info how to deploy the project
+
 
 ### How to Conribute
