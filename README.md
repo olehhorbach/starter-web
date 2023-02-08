@@ -16,3 +16,7 @@ And more text
 ### How to Conribute
 
 New text in this section
+
+### Copyright
+
+Git. Training
