@@ -23,3 +23,7 @@ New text in this section
 ### Copyright
 
 Git. Training
+add some text
+ss
+s
+s
